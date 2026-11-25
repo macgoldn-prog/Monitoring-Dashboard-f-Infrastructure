@@ -4,7 +4,7 @@ A lightweight, full-stack infrastructure monitoring system that tracks local mac
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The system uses a **dual-service decoupled monorepo architecture**:
 
@@ -13,7 +13,7 @@ The system uses a **dual-service decoupled monorepo architecture**:
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 * **Python**: 3.8+
 * **Node.js**: v18+ & `npm`
@@ -21,7 +21,7 @@ The system uses a **dual-service decoupled monorepo architecture**:
 
 ---
 
-## 🚀 Quick Start & Setup
+## Start & Setup
 
 Running the full stack requires two independent terminal sessions running side-by-side.
 
@@ -108,7 +108,7 @@ Returns current host performance statistics.
 
 ---
 
-## 🗺️ Roadmap & Next Stages
+## Roadmap & Next Stages
 
 - [ ] **Historical Data Visualization**: Add dynamic charts using `Recharts` or `Chart.js` to plot telemetry over time.
 - [ ] **Threshold Alerting**: Dynamic visual triggers (e.g., Tailwind amber/red badges when CPU > 80%).
